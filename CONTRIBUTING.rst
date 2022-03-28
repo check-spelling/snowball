@@ -172,8 +172,8 @@ Key problems to solve
   matching C - i.e. the result should be truncated (rounded towards zero).
   Some languages lack a built-in integer division operation, or have one
   which instead implements rounding towards negative infinity.  Existing
-  backends with special handling handling here which may be useful to look at
-  include Javascript, Pascal and Python.
+  backends with special handling here which may be useful to look at
+  include JavaScript, Pascal and Python.
 
 Don't hardcode algorithm names
 ------------------------------

@@ -270,12 +270,12 @@ static void generate_AE(struct generator * g, struct node * p) {
             w(g, "base.cursor"); break;
         case c_limit:
             w(g, p->mode == m_forward ? "base.limit" : "base.limit_backward"); break;
-        case c_lenof: /* Same as sizeof() for Javascript. */
+        case c_lenof: /* Same as sizeof() for JavaScript. */
         case c_sizeof:
             g->V[0] = p->name;
             w(g, "~V0.length");
             break;
-        case c_len: /* Same as size() for Javascript. */
+        case c_len: /* Same as size() for JavaScript. */
         case c_size:
             w(g, "base.current.length");
             break;

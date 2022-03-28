@@ -6,7 +6,7 @@ New Code Generators
 
 * Add Ada generator from Stephane Carrez (#135).
 
-Javascript
+JavaScript
 ----------
 
 * Fix generated code to use integer division rather than floating point
@@ -179,7 +179,7 @@ Code Quality Improvements
 * Use `const` pointers more in C runtime.
 
 * Only use spaces for indentation in javascript code.  Change proposed by Emily
-  Marigold Klassen in #123, and seems to be the modern Javascript norm.
+  Marigold Klassen in #123, and seems to be the modern JavaScript norm.
 
 New Snowball Language Features
 ------------------------------
@@ -391,7 +391,7 @@ New Code Generators
 * Add Python generator (#24).  Originally written by Yoshiki Shibukawa, with
   additional updates by Dmitry Shachnev.
 
-* Add Javascript generator.  Based on JSX generator (#26) written by Yoshiki
+* Add JavaScript generator.  Based on JSX generator (#26) written by Yoshiki
   Shibukawa.
 
 * Add Rust generator from Jakob Demler (#51).
