@@ -1,10 +1,10 @@
-Snowball stemming library collection for Javascript
+Snowball stemming library collection for JavaScript
 ===================================================
 
 How to use library
 ------------------
 
-You can use each stemming modules from Javascript code - e.g to use them
+You can use each stemming modules from JavaScript code - e.g to use them
 with node:
 
 .. code-block:: javascript

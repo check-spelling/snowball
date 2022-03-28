@@ -173,7 +173,7 @@ Key problems to solve
   Some languages lack a built-in integer division operation, or have one
   which instead implements rounding towards negative infinity.  Existing
   backends with special handling here which may be useful to look at
-  include Javascript, Pascal and Python.
+  include JavaScript, Pascal and Python.
 
 Don't hardcode algorithm names
 ------------------------------
